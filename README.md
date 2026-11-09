@@ -19,7 +19,7 @@ and build the pipelines and tooling teams use to ship on it.
 ## Personal projects
 
 - [pc-telemetry](https://github.com/AkshatIIITD/pc-telemetry): live hardware dashboard on a 480x800 screen, shown as a wallpaper
-- [ServerHostedApps](https://github.com/AkshatIIITD/ServerHostedApps): a 2014 laptop turned homeserver running Immich and Nextcloud
+- [ServerHostedApps](https://github.com/AkshatIIITD/ServerHostedApps): an old HP Pavilion laptop turned homeserver running Immich and Nextcloud
 - [ArchConfigs](https://github.com/AkshatIIITD/ArchConfigs): my Arch Linux and Hyprland dotfiles
 - [RustProjects](https://github.com/AkshatIIITD/RustProjects): packet sniffer, image braille-art generator and other Rust experiments
 
