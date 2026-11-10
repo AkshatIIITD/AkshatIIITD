@@ -18,6 +18,7 @@ and build the pipelines and tooling teams use to ship on it.
 
 ## Personal projects
 
+- [onboardctl](https://github.com/AkshatIIITD/onboardctl): one command to onboard a project across OpenShift, Harbor and Keycloak (Go, idempotent, stdlib only)
 - [pc-telemetry](https://github.com/AkshatIIITD/pc-telemetry): live hardware dashboard on a 480x800 screen, shown as a wallpaper
 - [ServerHostedApps](https://github.com/AkshatIIITD/ServerHostedApps): an old HP Pavilion laptop turned homeserver running Immich and Nextcloud
 - [ArchConfigs](https://github.com/AkshatIIITD/ArchConfigs): my Arch Linux and Hyprland dotfiles
